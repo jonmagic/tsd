@@ -212,13 +212,37 @@ The crust was so darn tasty, I'm not sure we'll go back to the 72 hour non-sourd
 <a name="bottom"></a>
 ## 10:30 -- Sunday May 24th, 20202
 
-Today's bake was the best yet!
+Today's bake was tfhe best yet!
 
 ![best loaves yet]({{ site.url }}/images/p19-best-loaves-yet.jpg)
 
 The skin was perfectly crunchy and these loaves had a beautiful airy crumb.
 
 ![look at that crumb]({{ site.url }}/images/p20-look-at-that-crumb.jpg)
+
+<a name="recipe"></a>
+Here's the recipe:
+
+* 500g bread flour
+* 325g water
+* 250g active starter
+* 25g EVOO
+* 10g kosher salt
+
+1. Mix ingredients just enough that there isn't any loose flour in the mixing bowl and let it sit for 30 minutes covered.
+1. Using a wet hand finish mixing the dough and let it sit for 30 minutes covered.
+1. Again using a wet hand stretch and fold the dough, doing a quarter turn of the bowl each time, until the dough doesn't really want to stretch anymore. Cover and let it rest for 15 minutes.
+ 1. Repeat this every 15 minutes for the next 1-2 hours. I find this process very therapuetic so I like to do it for 2 hours. If you don't you can just do it for 1 hour.
+ 1. Now repeat the process every 30 minutes or so for 1-2 more hours.
+ 1. Cover with plastic wrap and stick in the fridge for 12-18 hours to bulk ferment.
+ 1. After the dough has doubled in size and you are nearly ready to bake take it out and shape it into your loaves.
+ 1. Place the shaped rounds into bannetons and let them proof for 1-2 hours (90 minutes seems to be just about right for our house temp right now).
+ 1. Thirty minutes before you bake pre-heat the oven to 450 with the dutch oven in it (lid and all).
+ 1. Plop the dough out of the banneton onto parchment paper and score it with the lame. Be creative!
+ 1. Put the dough on the parchment paper into the hot dutch oven, spritz the loaf with some water, put the lid on and stick it in the oven for 20 minutes.
+ 1. After 20 minutes take the lid off the dutch oven and let it bake for 20 more minutes.
+ 1. Now turn the oven off and prop the door open and let the bread stay in there in the dutch oven for another 10 minutes.
+ 1. Place the loaf on a cooling rack and don't cut into it for at least 20 minutes!
 
 We decided to make some cuban pork sandwiches with the bread as well as some pickles we made earlier this week and mojo pork from the grill.
 
