@@ -1,2 +1,3 @@
-source: .
+plugins:
+  - jemoji
 url: https://jonmagic.github.io/tsd
