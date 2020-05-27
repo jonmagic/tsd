@@ -109,6 +109,8 @@ They are now doing the second rest before I slash the tops and start baking them
 
 Now I'm working on breakfast. Just put bacon in the oven with a teaspoon of brown sugar on each slice. Next up is preparing another batch of sourdough pancakes because the ones yesterday were so yummy.
 
+<a name="bottom"></a>
+
 ## 11:15 -- Sunday April 19th, 2020
 
 I did it! Photos in reverse order.
