@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1>{{ page.title }}</h1>
+      <div><a href="#bottom">Most recent post</a></div>
+      <section>
+        {{ content }}
+      </section>
+      <footer>
+        &copy; {{ site.time | date: '%Y' }} Jonathan Hoyt
+      </footer>
+      <a name="bottom"></a>
+    </div>
+    <style>
+      body {
+        font-family: Helvetica, Arial, sans-serif;
+      }
+      .container {
+        margin: 0 auto;
+        width: 800px;
+      }
+    </style>
+  </body>
+</html>
