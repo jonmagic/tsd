@@ -7,7 +7,7 @@ title: The Sourdough Diary
 
 Ran into our old neighbors Cat and David tonight (with a good ten foot buffer due to social distancing) and found out they bake their own bread. She offered me some of her sourdough starter and I gladly accepted it.
 
-Now I'm thirty minutes into reading sourdough bread recipes and how to maintain the starter and feeling like I'm joining a cult. For tonight\ I've decided to just put the starter in the refrigerator overnight so I can read more before diving in.
+Now I'm thirty minutes into reading sourdough bread recipes and how to maintain the starter and feeling like I'm joining a cult. For tonight I've decided to just put the starter in the refrigerator overnight so I can read more before diving in.
 
 ![sourdough starter in a jar]({{ site.url }}/images/p1-starter.jpg)
 
