@@ -97,9 +97,9 @@ Time to start preparing my dough! As I understand it right now these are the bas
 1. Let it rise for 1-2 hours.
 1. Bake it!
 
-Tonight I'm following the Sourdough Bread: A Beginner's Guide recipe by Emilie Raffa. This recipe was a little different in that it had me mix the starter with water and oil, then add the flour and salt and then let it set to autolyse for 30 minutes.
+Tonight I'm following the [Sourdough Bread: A Beginner's Guide recipe by Emilie Raffa](https://www.theclevercarrot.com/2014/01/sourdough-bread-a-beginners-guide/) (here's a [pdf version](https://p199.p4.n0.cdn.getcloudapp.com/items/eDu6G8BE/Sourdough%20Bread_%20A%20Beginner's%20Guide%20_%20The%20Clever%20Carrot.pdf?v=a637860fa3675a99233bc19b223dcee7) minus all the website ads). This recipe was a little different in that it had me mix the starter with water and oil, then add the flour and salt and then let it set to autolyse for 30 minutes.
 
-I'm also wondering why it has such a low hydration level, only 50%. The YouTube video I watched last night recommended 70% for a beginner and said 80% would be too hard to handle but 50% is just downright dry. I wonder if this will by tight crummy bread :thinking:
+I'm also wondering why it has such a low hydration level, only 50%. [The YouTube video I watched last night](https://www.youtube.com/watch?v=BJEHsvW2J6M) recommended 70% for a beginner and said 80% would be too hard to handle but 50% is just downright dry. I wonder if this will by tight crummy bread :thinking:
 
 ## 08:00 -- Sunday April 19th, 2020
 
@@ -108,8 +108,6 @@ Today is the day! This morning I checked on my dough and it had risen nicely so 
 They are now doing the second rest before I slash the tops and start baking them. Since I only have one Dutch Oven, I'll only be cooking one loaf at a time.
 
 Now I'm working on breakfast. Just put bacon in the oven with a teaspoon of brown sugar on each slice. Next up is preparing another batch of sourdough pancakes because the ones yesterday were so yummy.
-
-<a name="bottom"></a>
 
 ## 11:15 -- Sunday April 19th, 2020
 
@@ -132,3 +130,96 @@ Right after the bulk fermentation and before I cut it in half and started shapin
 This bread is delicious. I gave the second loaf to our friend Daryl and we're using our loaf tonight for dinner (steak, asparagus, tomatoes, and bread all grilled) so I'm itching to make more already :smile:
 
 I think I'll get another batch of this recipe started after the kids go to bed tonight and I'll bake the loaves in the morning before work. I might swap 25% of the white bread flour for some whole wheat flour and increase the hydration level from 50% to 60%.
+
+## 12:00 -- Saturday April 25th, 2020
+
+I didn't end up using whole wheat flour this week for the round loaves but did attempt to make a sandwich loaf with white and wheat. I also didn't mess with the hydration this week. The rounds were good but now I'm craving a more airy crumb like the loaves we get at the farmers market.
+
+![rugged one]({{ site.url }}/images/p6-rugged-one.jpg)
+
+The sandwich loaf was very dense, need to try something that produces lighter and fluffier crumb in the future.
+
+![dense loaf baking]({{ site.url }}/images/p7-sandwich-loaf.jpg)
+
+I did learn that I've been calculating my hydration percentage incorrectly. I forgot to take into account the flour and water from the starter. So the following recipe:
+
+* 500g bread flour
+* 250g water
+* 150g active starter
+* 25g EVOO
+* 10g salt
+
+Is actually (250+75)/(500+75) which is about 56.5% hydration.
+
+## 11:30 -- Saturday May 2nd, 2020
+
+I made a [lame](https://en.wikipedia.org/wiki/Lame_(kitchen_tool))!
+
+![lame]({{ site.url }}/images/p8-lame.jpg)
+
+Turns out you can DIY one using double edged razors and chopsticks :grimacing:
+
+![double edged razors]({{ site.url }}/images/p9-double-edged-razors.jpg)
+
+With my new tool I made some cool designs!
+
+![designer loaves]({{ site.url }}/images/p10-designer-loaves.jpg)
+
+But I'm still not happy with the crumb.
+
+![crummy crumb]({{ site.url }}/images/p11-still-not-happy-with-this-crumb.jpg)
+
+I need to start adjusting my hydration levels and consider doing more stretch and folds to try and strengthen the dough so it can capture more gas during the rise.
+
+## 10:45 -- Saturday May 9th, 2020
+
+Well, I increased the hydration to 65% this week and did twice as many stretch and folds but ended up with very thin skinned bread and I'm not sure why :thinking: I did start using bannetons this week so maybe that could be it? Bannetons are a type of proofing basket, I borrowed a couple from our neighbor that's a chef to try out.
+
+![thin skinned]({{ site.url }}/images/p12-thin-skinned.jpg)
+
+For this batch I used 25% whole wheat flour and I like the color and flavor but still not getting the airy crumb I'm craving.
+
+![crumb]({{ site.url }}/images/p13-crumb.jpg)
+
+I made this bread loaf using [a recipe](https://www.kingarthurflour.com/recipes/basic-sourdough-bread-recipe) from King Arthur Flour and the whole family loves it.
+
+![king arthurs sourdough bread loaf]({{ site.url }}/images/p14-king-arthurs-sourdough-bread-loaf.jpg)
+
+Going to be making this bread loaf on a regular basis I think.
+
+## 11:45 -- Sunday May 17th, 2020
+
+Well, these loaves look beautiful but they are super thin skinned again.
+
+![beautiful loaves]({{ site.url }}/images/p15-beautiful-loaves.jpg)
+
+I think I've figured out the problem though. I've been slowly increasing my hydration (I'm at about 75% now) but haven't been increasing my cooking temperature!
+
+While the thin skin was a disappointment the crumb sure wasn't! I'm back to baking with all bread flour, I'm doing a lot of stretch and folds in the first 4 hours after I mix the dough, and I'm letting it bulk ferment in the wine fridge for 12-18 hours.
+
+![airy crumb]({{ site.url }}/images/p16-airy-crumb.jpg)
+
+## 17:30 -- Saturday May 23rd, 2020
+
+Woot woot! First time making cheesy breadsticks and pizza with sourdough :heart:
+
+![cheesy breadsticks and pizza]({{ site.url }}/images/p17-breadsticks-and-pizza.jpg)
+
+The crust was so darn tasty, I'm not sure we'll go back to the 72 hour non-sourdough recipe we were using.
+
+![pizza baked]({{ site.url }}/images/p18-pizza.jpg)
+
+<a name="bottom"></a>
+## 10:30 -- Sunday May 24th, 20202
+
+Today's bake was the best yet!
+
+![best loaves yet]({{ site.url }}/images/p19-best-loaves-yet.jpg)
+
+The skin was perfectly crunchy and these loaves had a beautiful airy crumb.
+
+![look at that crumb]({{ site.url }}/images/p20-look-at-that-crumb.jpg)
+
+We decided to make some cuban pork sandwiches with the bread as well as some pickles we made earlier this week and mojo pork from the grill.
+
+![cuban pork sandwich time]({{ site.url }}/images/p21-cuban-pork-sandwich-time.jpg)
